@@ -1,0 +1,6 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "aikorandomideas:item/taco_bell_taco"
+  }
+}
